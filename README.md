@@ -15,3 +15,7 @@
 7-1. git commit -m [ commit message ]
 8. 맨밑에 순환버튼 같이 생긴거 눌려서 push
 8-1. git push origin master
+//git hub하면서 로그인 에러 같은게 계속 나면 안에서 꼬인거
+   git config --system --unset credential.helper
+   위에 일종의 초기화 하는 거
+   push할라하면 로그인하라고 하는데 로그인 하면 된다. 
