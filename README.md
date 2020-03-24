@@ -19,3 +19,10 @@
    git config --system --unset credential.helper
    위에 일종의 초기화 하는 거
    push할라하면 로그인하라고 하는데 로그인 하면 된다. 
+
+// 모두의 딥러닝
+https://github.com/gilbutTbook/080228
+www.gilbut.co.kr
+
+// 딥러닝 부트캠프 with 케라스
+https://github.com/gilbutITbook/006959
